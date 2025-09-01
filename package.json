@@ -101,7 +101,7 @@
     },
     "dependencies": {
         "@babel/parser": "^7.20.7",
-        "@babel/traverse": "^7.20.7",
+        "@babel/traverse": "^7.28.0",
         "@babel/types": "^7.20.7",
         "@socketsecurity/config": "^2.0.0",
         "@socketsecurity/registry": "^1.0.66",
