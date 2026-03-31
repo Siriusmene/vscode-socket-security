@@ -105,7 +105,7 @@
         "@babel/types": "^7.20.7",
         "@socketsecurity/config": "^2.0.0",
         "@socketsecurity/registry": "^1.0.66",
-        "@vscode/python-extension": "^1.0.5",
+        "@vscode/python-extension": "^1.0.6",
         "@vscode/vsce": "^3.6.0",
         "ini": "^5.0.0",
         "json-to-ast": "^2.1.0"
